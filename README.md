@@ -1,7 +1,7 @@
 # Hi, I'm Mahmoud Mohamed Amin! 👋
 
 ## About Me
-I'm a dedicated Full Stack Developer from Egypt with a Bachelor’s degree in Computer Science (High Institute for Computer Science and Information Systems, 6th of October, 2023). I specialize in building robust web and desktop applications using .NET, ASP.NET MVC, C#, and Entity Framework, while crafting responsive, user-friendly interfaces with HTML5, CSS3, JavaScript, and Bootstrap. Currently, I'm enhancing my skills through the ITI .NET Full Stack Development track, working on real-world projects like a JUMIA-inspired e-commerce platform using ASP.NET Web API and Angular. Passionate about clean code, SOLID principles, and delivering efficient solutions, I’m eager to contribute to innovative software projects.
+I'm a dedicated Full Stack Developer from Egypt with a Bachelor’s degree in Computer Science  I specialize in building robust web and desktop applications using .NET, ASP.NET MVC, C#, and Entity Framework, while crafting responsive, user-friendly interfaces with HTML5, CSS3, JavaScript, and Bootstrap. Currently, I'm enhancing my skills through the ITI .NET Full Stack Development track, working on real-world projects like a JUMIA-inspired e-commerce platform using ASP.NET Web API and Angular. Passionate about clean code, SOLID principles, and delivering efficient solutions, I’m eager to contribute to innovative software projects.
 
 ## What I'm Working On
 - **JUMIA-Inspired E-Commerce Platform**: Developing a full-stack application with ASP.NET Web API, Angular, and Microsoft SQL Server for product management and payments. ([ITI Project, In Progress])
